@@ -33,6 +33,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    padding-top: 45px;
 }
 
 nav ul li {
@@ -51,7 +52,7 @@ nav ul li a {
     justify-content: start;
 }
 .logo img{
-    width: 22%;
+    width: 35%;
     cursor: pointer;
 }
 
